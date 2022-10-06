@@ -2,6 +2,9 @@
 - 👀 I’m interested in coding
 - 📫 How to reach me ...
 - LinkedIn [https://www.linkedin.com/in/tharindu-sooriyaarachchi-2239b2142/]
+- Twitter [https://twitter.com/TharinduDilsh10]
+- Instagram [https://www.instagram.com/tharindu_sooriyaarachchi/]
+- Facebook [https://www.facebook.com/Tharindudilshansoori]
 
 <!---
 TharinduDilshan/TharinduDilshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
