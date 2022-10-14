@@ -8,8 +8,8 @@
 
 [![@tharindudilshan's Holopin board](https://holopin.me/tharindudilshan)](https://holopin.io/@tharindudilshan)
 
-[![Credly Badges]
-[Google Data Analytics Certificate][https://www.credly.com/badges/44285ec7-f106-47da-91aa-a0a12f522b5b/public_url]
+-[Credly Badges][https://www.credly.com/users/tharindu-sooriyaarachchi/badges]
+
 
 <!---
 TharinduDilshan/TharinduDilshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
