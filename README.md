@@ -9,7 +9,7 @@
 [![@tharindudilshan's Holopin board](https://holopin.me/tharindudilshan)](https://holopin.io/@tharindudilshan)
 
 [![Credly Badges]
-(<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="44285ec7-f106-47da-91aa-a0a12f522b5b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+[Google Data Analytics Certificate][https://www.credly.com/badges/44285ec7-f106-47da-91aa-a0a12f522b5b/public_url]
 
 <!---
 TharinduDilshan/TharinduDilshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
