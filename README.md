@@ -6,7 +6,7 @@
 - Instagram [https://www.instagram.com/tharindu_sooriyaarachchi/]
 - Facebook [https://www.facebook.com/Tharindudilshansoori]
 
-[![Holopin board](https://holopin.me/tharindudilshan)](https://holopin.io/@tharindudilshan)
+[![@tharindudilshan's Holopin board](https://holopin.me/tharindudilshan)](https://holopin.io/@tharindudilshan)
 
 <!---
 TharinduDilshan/TharinduDilshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
