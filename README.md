@@ -8,7 +8,7 @@
 
 [![@tharindudilshan's Holopin board](https://holopin.me/tharindudilshan)](https://holopin.io/@tharindudilshan)
 
--[Credly Badges][https://www.credly.com/users/tharindu-sooriyaarachchi/badges]
+-Credly Badges[https://www.credly.com/users/tharindu-sooriyaarachchi/badges]
 
 
 <!---
