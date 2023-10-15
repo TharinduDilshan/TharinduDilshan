@@ -5,6 +5,7 @@
 - Twitter [https://twitter.com/TharinduDilsh10]
 - Instagram [https://www.instagram.com/tharindu_sooriyaarachchi/]
 - Facebook [https://www.facebook.com/Tharindudilshansoori]
+- Holopin Badges
 
 [![@tharindudilshan's Holopin board](https://holopin.me/tharindudilshan)](https://holopin.io/@tharindudilshan)
 
